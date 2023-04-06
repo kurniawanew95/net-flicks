@@ -59,7 +59,9 @@ const MovieCard: React.FC<MovieCardProps> = ({
                 w-full
                 h-[12vw]
                 '
-                src={data.thumbnailUrl}/>
+                src={data.thumbnailUrl}
+                alt="Poster"
+                />
                 <div className='
                 z-10
                 bg-zinc-800
