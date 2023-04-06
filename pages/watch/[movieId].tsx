@@ -1,5 +1,5 @@
 import React from "react";
-import { AiOutlineArrowLeft } from "react-icons/Ai";
+import { AiOutlineArrowLeft } from "react-icons/ai";
 
 import useMovie from "@/hooks/useMovie";
 import { useRouter } from "next/router";
